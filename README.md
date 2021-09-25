@@ -15,4 +15,7 @@ npm run serve
 npm run build
 ```
 
+### Packages used
+Axios for HTTPS request, momentjs for date formating, and  Vue-infinite-loading to get paginated data when scroll up.
+
 
